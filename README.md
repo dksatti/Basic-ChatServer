@@ -1,2 +1,2 @@
 # Basic-ChatServer-Client
-This is basic version of a Chat Server and Client - Pet Project
+This is basic version of a Chat Server Complete developing application - Pet Project
